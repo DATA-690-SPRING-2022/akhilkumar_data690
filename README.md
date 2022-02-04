@@ -9,12 +9,12 @@ I am a data analyst enthusiast who enjoys visualizing the data to look for patte
 ### Education
 - **MPS** in Data Science (2021-2023), University of Maryland, Baltimore County, MD 
 - **Masters** in Manufacturing Technology,JNTUH College of Engineering, Hyderabad
-- **Bachelor’s** in Mechanical Engineering,JNTUH College of Engineering, Hyderabad1
+- **Bachelor’s** in Mechanical Engineering,JNTUH College of Engineering, Hyderabad
 
 ### Work Experience
 **Graduate Engineer Trainee** in Hyundai Motor India Engg, Hyderabad ,April 2019-2020
 
-**Data science Trainee** in Anlaytix labs,benguluru,May 2020-Jun 2021
+**Data Science Trainee** in Anlaytix labs,benguluru,May 2020-Jun 2021
 ### Licenses & Certifications
 - Certified Data Analyst(Excel,SQL,Tableau&R) in Analytix labs
 ### Technical Skills
