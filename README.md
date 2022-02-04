@@ -1,46 +1,42 @@
-# Akhil kumar Kondamidi
-### Objective
+![Akhil color phot_3](https://user-images.githubusercontent.com/63187669/152600520-2c3e9c33-b769-4bb5-bb2e-64f736c3f8e7.jpeg)
+# Akhil Kumar Kondamidi
+### Contact information:
+- 4436680237
+
+- akhilkumarkondamidi@gmail.com
+### Career Objective
 I am a data analyst enthusiast who enjoys visualizing the data to look for patterns and tell a story. I am looking to expand my skills in a corporate setting.
+### Education
+- **MPS** in Data Science (2021-2023), University of Maryland, Baltimore County, MD 
+- **Masters** in Manufacturing Technology,JNTUH College of Engineering, Hyderabad
+- **Bachelor’s** in Mechanical Engineering,JNTUH College of Engineering, Hyderabad1
 
+### Work Experience
+**Graduate Engineer Trainee** in Hyundai Motor India Engg, Hyderabad ,April 2019-2020
 
-Bachelor’s in Mechanical Engineering
-73.62%	May 2017
-JNTUH College of Engineering, Hyderabad
+**Data science Trainee** in Anlaytix labs,benguluru,May 2020-Jun 2021
+### Licenses & Certifications
+- Certified Data Analyst(Excel,SQL,Tableau&R) in Analytix labs
+### Technical Skills
+- Python, R, Tableau, SQL
+### Achievements
+- Certificate of Appreciation in National Level Speed Math’s competition conducted by Central Education Society.
+- Recipient of MHRD merit scholarship for the year 2013.
+- Received EXCELLENT grade certificate for performance in science test conducted by National Level Science Talent Search Examination
 
-Post-Graduation in Manufacturing Systems                                   81%	July 2018
-    JNTUH College of Engineering, Hyderabad
-    Data Science Trainee  
-    Feb 2021
-### SKILLS
-Programming languages
-
-Python, R, Tableau, SQL
-
-Predictive modelling techniques
-
-Linear Regression, Logistic Regression
-
-Decision Trees, Random Forest, SVM, Time Series, PCA, 
-
-KNN, K means, Hierarchal clustering, Naïve Bayes
-
-Deep learning
-
-NLP (Bag-of-words model), ANN, CNN
-
-### WORK EXPERIENCE
-Graduate Engineer Trainee in Hyundai Motor India Engg., Hyderabad               April 2019-Oct2019
--	Expertise in passenger vehicle modeling various systems according to the requirements and standards for different analysis
-- Expertise in FE modeling and handling various assembly with respect to various domains like NVH, CRASH.
-
-### Data Analytics
--	Expertise in Visualization of Data using Tableau to understand trends of a company where client would see a dynamic dashboard with different KPI's at different levels.
--	Predicted whether employees are at risk of leaving the company using ensemble models. Using Logistic regression and calculated the cut-off using confusion matrix and ROC curve in R& Python.
--Identified the key factors responsible for predicting the credit card spend and built a model using Regression and Random Forest to predict the total spend of the customers in Python.
--	Analyzed customer reviews and predicted customer satisfaction by text mining and sentiment analysis techniques.
--	Developed customer segmentation to define marketing strategy for credit card holders, using KPI’s to gain insight on the customer profiles in Python.
--	Performed univariate and bivariate analysis using various plots to analyze predictive features. Used random forest to get the important features for model building
-
+### Extracurriculars
+- Chief coordinator for “Go-kart designing and performance optimization” workshop organized by Indian society of new era engineers.
+- A Volunteer of an NGO named ‘Bachpan Prayas’ for helping indigent students.
+- Member of ‘Innovation & Creativity Club’ in our college 
+- Event organizer in technical fest “Connaissance”
+### Paper Published
+- K. Akhil Kumar, Dr. P. Prasanna, "Performance Evaluation of Solid Lubricants under MQL in 
+Hard Turning of EN-31 Steel Using Coated Carbide Inserts", International Journal of Science 
+and Research (IJSR), Volume 7 Issue 6, June 2018, 1626 – 1632.
+### Language Skills
+- English, Proficient
+- HIndi, Proficient
+- Telugu,Proficient
 
 
 
