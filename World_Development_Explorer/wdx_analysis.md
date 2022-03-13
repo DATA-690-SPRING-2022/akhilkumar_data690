@@ -44,3 +44,83 @@ To help us access this situation three indicators are considered from https://ww
 
 ## What process/step you use to analyze the situation/issue?	
 I analyzed the problem using Bar chart, scatter plot and line chart.
+
+## Country wise GDP per capita for the year 2010
+![](Bar_graph_GDP.png)
+In the above bar chart, Country Name is on the X-axis, GDP per capita, PPP for 2010 is on the Y-axis, and each bar represents the GDP of a certain country.
+
+From the bar chart,
+* As seen, Singapore has the greatest GDP per capita, followed by the UAE and the United States. India has the lowest GDP per capita in the world.
+* It's noteworthy to observe that Canada, Australia, and Germany have comparable GDP per capita.
+
+## Country wise Suicide mortality rate for the year 2010
+![](Bar_graph_suicide.png)
+In the above Bar chart, the X-axis indicates the nation name, and the Y-axis shows the suicide mortality rate (per 100,000 people) for 2010. Each bar represents the Suicide Mortality rate of a certain country.
+
+From the bar chart,
+* As seen, Japan has the highest rate of Suicide Mortality, followed by India and Germany. The United Kingdom has the lowest rate of Suicide Mortality.
+
+## Country wise life expectancy at birth for the year 2010
+![](Bar_graph_life_expectency.png)
+The X-axis in the above Bar chart is Country Name, and the Y-axis is Life Expectancy at Birth, total (years) for the year 2010, and each bar indicates the Life Expectancy for a certain country.
+
+From the chart,
+* The highest Life Expectancy at Birth may be found in Japan, Australia, and Singapore, while the lowest Life Expectancy can be found in India.
+
+## Line charts to show how GDP per capita, Life Expectancy at Birth, and Suicide Mortality Rates have changed for countries and regions from 2010 to 2018.
+
+## Line chart for GDP per capita
+![](line_gdp.png)
+The time period in years from 2010 to 2018 is taken along the X-axis in the above Line chart, while GDP per capita, PPP is taken along the Y-axis, and each line represents a specific country's GDP over the time period.
+
+From the chart,
+* Singapore has the greatest GDP per capita, followed by the UAE and the United States. Over the years, India has had the lowest GDP per capita.
+* Singapore's GDP per capita increased significantly between 2014 and 2018.
+* The UAE's GDP has dropped significantly since 2014, though it has increased marginally since 2016.
+
+## Line chart for Suicide mortality Rate
+![](line_suicide.png)
+The time period in years from 2010 to 2018 is taken along the X-axis in the above Line chart, and the Suicide mortality rate (per 100,000 population) is taken along the Y-axis, and each line represents a specific country's Suicide mortality rate for the time period.
+
+From the chart,
+* As seen, Japan had the highest suicide fatality rate in 2010, which declined dramatically from 2010 to 2018.
+* The United States, which ranked fourth in terms of suicide death rate in 2010, rose to second by the conclusion of the time period in 2018.
+* During the same time period, India saw a modest decline in the suicide mortality rate.
+
+## Line chart for Life expectancy at birth
+![](line_life.png)
+In the above Line chart, the time period in years from 2010 to 2018 is taken along the X-axis, and Life Expectancy at Birth, total (years) is taken along the Y-axis, and each line shows a specific country's Life Expectancy at Birth across the time period.
+
+From the chart,
+* As seen, Japan, Singapore, and Australia have the highest Life Expectancy at Birth, whereas India has the lowest Life Expectancy at Birth.
+* Except for a few countries, it appears that all countries experienced a continuous increase in Life Expectancy at Birth over the time period.
+* Life expectancy in the United States appears to have remained constant over time.
+* India has seen the greatest growth in Life Expectancy since the beginning of the time period.
+
+## Scatterplot charts illustrating the relationship between GDP per capita, Life Expectancy at Birth, and Suicide Mortality Rate for countries and regions from 2010 to 2018.
+
+## Scatter plot for GDP per capita and Life expectancy at Birth
+![](Scatter_GDP_Life.png)
+GDP per capita, PPP (current international $) is taken along the X-axis, and Life Expectancy at Birth, total (years) is taken along the Y-axis, and each dot represents a specific country's GDP per capita with its Life Expectancy at birth from 2010 to 2018.
+
+From the chart,
+* We can see that there is a positive link between GDP per capita and Life Expectancy at Birth of the countries, implying that as a country's GDP increases, so does the Life Expectancy of its population.
+* We can see that countries with a high GDP have a higher life expectancy than countries with a low GDP.
+* We can also observe that nations with low GDP had a big increase in Life Expectancy over the time period, whereas countries with high GDP had a Life Expectancy that remained relatively constant or did not vary significantly.
+* Throughout the period, India had the lowest GDP and life expectancy rates, while Singapore had the highest.
+
+## Scatter plot for GDP per capita and Suicide Mortality Rate
+![](Scatter_GDP_Suicide.png)
+GDP per capita, PPP (current international $) is taken along the X-axis and Suicide mortality rate (per 100,000 population) is taken along the Y-axis in the above Scatterplot chart, and each dot represents a specific country's GDP per capita with its Suicide mortality rate from 2010 to 2018.
+
+From that chart,
+* We can see that some low-income countries have a lower suicide death rate.
+* Suicide mortality rates are higher in several low-income countries than in higher-income countries. We don't detect an obvious connection between them.
+* Over the years, India has had the lowest GDP and Suicide Mortality Rate.
+* Suicide mortality in Japan has decreased dramatically over the years.
+
+## Conclusion
+In conclusion, it is clear that a country's increasing economic growth and development enhances life expectancy at birth, leading in an increase in longevity. GDP and Suicide Mortality Rate have no statistically meaningful or consistent association. Suicide mortality rates, on the other hand, are high in high GDP regions and low in low GDP regions. Suicide death rates fell in low-income countries while rising in high-income countries over the same time period.
+
+
+
