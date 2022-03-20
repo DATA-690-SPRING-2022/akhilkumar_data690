@@ -1,3 +1,4 @@
+
  # Individual project Part A Draft
  * Name : Akhil Kumar Kondamidi
  
@@ -100,7 +101,7 @@ From the chart,
 ## Scatterplot charts illustrating the relationship between GDP per capita, Life Expectancy at Birth, and Suicide Mortality Rate for countries and regions from 2010 to 2018.
 
 ## Scatter plot for GDP per capita and Life expectancy at Birth
-![](Scatter_GDP_Life.png)
+![newplot (3)](https://user-images.githubusercontent.com/63187669/159147536-4b2fc932-0acb-4114-bf6b-858547a530af.png)
 GDP per capita, PPP (current international $) is taken along the X-axis, and Life Expectancy at Birth, total (years) is taken along the Y-axis, and each dot represents a specific country's GDP per capita with its Life Expectancy at birth from 2010 to 2018.
 
 From the chart,
