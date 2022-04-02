@@ -1,0 +1,271 @@
+,Year,value,indicator,Country Code,Country Name,Region,Income Group,Lending Type
+0,2010,81.6951219512,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+1,2011,81.8951219512,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+2,2012,82.0463414634,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+3,2013,82.1487804878,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+4,2014,82.3,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+5,2015,82.4,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+6,2016,82.4487804878,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+7,2017,82.5,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+8,2018,82.7487804878,SP.DYN.LE00.IN,AUS,Australia,East Asia & Pacific,High income,Not classified
+9,2010,81.2463414634,SP.DYN.LE00.IN,CAN,Canada,North America,High income,Not classified
+10,2011,81.4487804878,SP.DYN.LE00.IN,CAN,Canada,North America,High income,Not classified
+11,2012,81.6487804878,SP.DYN.LE00.IN,CAN,Canada,North America,High income,Not classified
+12,2013,81.7487804878,SP.DYN.LE00.IN,CAN,Canada,North America,High income,Not classified
+13,2014,81.8,SP.DYN.LE00.IN,CAN,Canada,North America,High income,Not classified
+14,2015,81.9,SP.DYN.LE00.IN,CAN,Canada,North America,High income,Not classified
+15,2016,81.9,SP.DYN.LE00.IN,CAN,Canada,North America,High income,Not classified
+16,2017,81.9,SP.DYN.LE00.IN,CAN,Canada,North America,High income,Not classified
+17,2018,82.0487804878,SP.DYN.LE00.IN,CAN,Canada,North America,High income,Not classified
+18,2010,74.409,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+19,2011,74.708,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+20,2012,75.013,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+21,2013,75.321,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+22,2014,75.629,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+23,2015,75.928,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+24,2016,76.21,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+25,2017,76.47,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+26,2018,76.704,SP.DYN.LE00.IN,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+27,2010,79.987804878,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+28,2011,80.4365853659,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+29,2012,80.5390243902,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+30,2013,80.4902439024,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+31,2014,81.0902439024,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+32,2015,80.6414634146,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+33,2016,80.9902439024,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+34,2017,80.9926829268,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+35,2018,80.8926829268,SP.DYN.LE00.IN,DEU,Germany,Europe & Central Asia,High income,Not classified
+36,2010,66.693,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+37,2011,67.13,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+38,2012,67.545,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+39,2013,67.931,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+40,2014,68.286,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+41,2015,68.607,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+42,2016,68.897,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+43,2017,69.165,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+44,2018,69.416,SP.DYN.LE00.IN,IND,India,South Asia,Lower middle income,IBRD
+45,2010,82.8426829268,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+46,2011,82.5912195122,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+47,2012,83.096097561,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+48,2013,83.3319512195,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+49,2014,83.587804878,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+50,2015,83.793902439,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+51,2016,83.9848780488,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+52,2017,84.0997560976,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+53,2018,84.2109756098,SP.DYN.LE00.IN,JPN,Japan,East Asia & Pacific,High income,Not classified
+54,2010,81.5414634146,SP.DYN.LE00.IN,SGP,Singapore,East Asia & Pacific,High income,Not classified
+55,2011,81.743902439,SP.DYN.LE00.IN,SGP,Singapore,East Asia & Pacific,High income,Not classified
+56,2012,81.9951219512,SP.DYN.LE00.IN,SGP,Singapore,East Asia & Pacific,High income,Not classified
+57,2013,82.2463414634,SP.DYN.LE00.IN,SGP,Singapore,East Asia & Pacific,High income,Not classified
+58,2014,82.4951219512,SP.DYN.LE00.IN,SGP,Singapore,East Asia & Pacific,High income,Not classified
+59,2015,82.743902439,SP.DYN.LE00.IN,SGP,Singapore,East Asia & Pacific,High income,Not classified
+60,2016,82.8463414634,SP.DYN.LE00.IN,SGP,Singapore,East Asia & Pacific,High income,Not classified
+61,2017,83.0951219512,SP.DYN.LE00.IN,SGP,Singapore,East Asia & Pacific,High income,Not classified
+62,2018,83.2975609756,SP.DYN.LE00.IN,SGP,Singapore,East Asia & Pacific,High income,Not classified
+63,2010,76.332,SP.DYN.LE00.IN,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+64,2011,76.521,SP.DYN.LE00.IN,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+65,2012,76.711,SP.DYN.LE00.IN,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+66,2013,76.903,SP.DYN.LE00.IN,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+67,2014,77.095,SP.DYN.LE00.IN,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+68,2015,77.285,SP.DYN.LE00.IN,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+69,2016,77.47,SP.DYN.LE00.IN,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+70,2017,77.647,SP.DYN.LE00.IN,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+71,2018,77.814,SP.DYN.LE00.IN,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+72,2010,80.4024390244,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+73,2011,80.9512195122,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+74,2012,80.9048780488,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+75,2013,81.0048780488,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+76,2014,81.3048780488,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+77,2015,80.956097561,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+78,2016,81.156097561,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+79,2017,81.256097561,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+80,2018,81.256097561,SP.DYN.LE00.IN,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+81,2010,78.5414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+82,2011,78.6414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+83,2012,78.7414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+84,2013,78.7414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+85,2014,78.8414634146,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+86,2015,78.6902439024,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+87,2016,78.5390243902,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+88,2017,78.5390243902,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+89,2018,78.6390243902,SP.DYN.LE00.IN,USA,United States,North America,High income,Not classified
+90,2010,39336.6634845318,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+91,2011,42003.1580559752,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+92,2012,42836.6718635909,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+93,2013,45906.4400399472,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+94,2014,46880.8951800484,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+95,2015,46248.6164566389,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+96,2016,47255.3070085957,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+97,2017,48398.5497014956,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+98,2018,50169.1872936523,NY.GDP.PCAP.PP.CD,AUS,Australia,East Asia & Pacific,High income,Not classified
+99,2010,40099.4482394377,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+100,2011,41666.7076267956,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+101,2012,42290.9654102745,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+102,2013,44298.5787342765,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+103,2014,45753.7505547994,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+104,2015,44670.0805385838,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+105,2016,46472.3402486315,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+106,2017,48317.0965785817,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+107,2018,49992.6354904724,NY.GDP.PCAP.PP.CD,CAN,Canada,North America,High income,Not classified
+108,2010,9253.7651877121,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+109,2011,10292.9404780675,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+110,2012,11168.6972979775,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+111,2013,11872.4973811617,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+112,2014,12480.3385303781,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+113,2015,12897.5022868592,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+114,2016,13483.3772665319,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+115,2017,14243.5326108491,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+116,2018,15497.3599948376,NY.GDP.PCAP.PP.CD,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+117,2010,38952.6946021004,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+118,2011,42541.5310884096,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+119,2012,43359.6148271723,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+120,2013,44993.8927459315,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+121,2014,47011.5510935131,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+122,2015,47609.7810045816,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+123,2016,50579.6839299266,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+124,2017,53071.4555699913,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+125,2018,55235.366304833,NY.GDP.PCAP.PP.CD,DEU,Germany,Europe & Central Asia,High income,Not classified
+126,2010,4236.7443479487,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+127,2011,4493.6694656757,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+128,2012,4861.156152362,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+129,2013,5057.2334137482,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+130,2014,5233.8823425132,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+131,2015,5464.8591780094,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+132,2016,5839.8648167534,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+133,2017,6182.9221085744,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+134,2018,6675.3612941078,NY.GDP.PCAP.PP.CD,IND,India,South Asia,Lower middle income,IBRD
+135,2010,35335.3735103814,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+136,2011,36214.4397740241,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+137,2012,37605.9742614539,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+138,2013,39402.0250988025,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+139,2014,39555.4120089198,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+140,2015,40898.80697396,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+141,2016,40623.0186579214,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+142,2017,41505.0824777862,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+143,2018,42202.4011166689,NY.GDP.PCAP.PP.CD,JPN,Japan,East Asia & Pacific,High income,Not classified
+144,2010,75294.35655382,NY.GDP.PCAP.PP.CD,SGP,Singapore,East Asia & Pacific,High income,Not classified
+145,2011,80052.3914982651,NY.GDP.PCAP.PP.CD,SGP,Singapore,East Asia & Pacific,High income,Not classified
+146,2012,82064.9611910836,NY.GDP.PCAP.PP.CD,SGP,Singapore,East Asia & Pacific,High income,Not classified
+147,2013,83001.7878013707,NY.GDP.PCAP.PP.CD,SGP,Singapore,East Asia & Pacific,High income,Not classified
+148,2014,84423.1913432675,NY.GDP.PCAP.PP.CD,SGP,Singapore,East Asia & Pacific,High income,Not classified
+149,2015,86974.7476230627,NY.GDP.PCAP.PP.CD,SGP,Singapore,East Asia & Pacific,High income,Not classified
+150,2016,89417.3490208324,NY.GDP.PCAP.PP.CD,SGP,Singapore,East Asia & Pacific,High income,Not classified
+151,2017,95350.4356748021,NY.GDP.PCAP.PP.CD,SGP,Singapore,East Asia & Pacific,High income,Not classified
+152,2018,100581.158024992,NY.GDP.PCAP.PP.CD,SGP,Singapore,East Asia & Pacific,High income,Not classified
+153,2010,64882.8503411842,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+154,2011,67686.3853798798,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+155,2012,69102.4761704654,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+156,2013,70374.2353627555,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+157,2014,73619.0446557068,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+158,2015,64901.8800512352,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+159,2016,63968.8880391711,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+160,2017,67183.6053111678,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+161,2018,68576.1155226865,NY.GDP.PCAP.PP.CD,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+162,2010,36576.5865398028,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+163,2011,37379.2909657729,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+164,2012,38514.0261691783,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+165,2013,40218.7472562217,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+166,2014,41580.6024876318,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+167,2015,42912.8750936201,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+168,2016,44635.2995586517,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+169,2017,46372.38660351,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+170,2018,47573.4880155177,NY.GDP.PCAP.PP.CD,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+171,2010,48466.6576026922,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+172,2011,49882.5581321495,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+173,2012,51602.9310457907,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+174,2013,53106.5367672165,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+175,2014,55049.9883272312,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+176,2015,56863.3714957652,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+177,2016,58021.4004997125,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+178,2017,60109.6557260477,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+179,2018,63064.4184096728,NY.GDP.PCAP.PP.CD,USA,United States,North America,High income,Not classified
+180,2010,11.7,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+181,2011,11.2,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+182,2012,11.7,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+183,2013,11.5,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+184,2014,12.7,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+185,2015,13.2,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+186,2016,12.2,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+187,2017,13.1,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+188,2018,12.4,SH.STA.SUIC.P5,AUS,Australia,East Asia & Pacific,High income,Not classified
+189,2010,12.1,SH.STA.SUIC.P5,CAN,Canada,North America,High income,Not classified
+190,2011,11.3,SH.STA.SUIC.P5,CAN,Canada,North America,High income,Not classified
+191,2012,11.8,SH.STA.SUIC.P5,CAN,Canada,North America,High income,Not classified
+192,2013,12.1,SH.STA.SUIC.P5,CAN,Canada,North America,High income,Not classified
+193,2014,12.7,SH.STA.SUIC.P5,CAN,Canada,North America,High income,Not classified
+194,2015,13.0,SH.STA.SUIC.P5,CAN,Canada,North America,High income,Not classified
+195,2016,11.9,SH.STA.SUIC.P5,CAN,Canada,North America,High income,Not classified
+196,2017,13.0,SH.STA.SUIC.P5,CAN,Canada,North America,High income,Not classified
+197,2018,12.0,SH.STA.SUIC.P5,CAN,Canada,North America,High income,Not classified
+198,2010,10.2,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+199,2011,9.6,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+200,2012,9.0,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+201,2013,8.6,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+202,2014,8.4,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+203,2015,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+204,2016,8.2,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+205,2017,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+206,2018,8.1,SH.STA.SUIC.P5,CHN,China,East Asia & Pacific,Upper middle income,IBRD
+207,2010,13.2,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+208,2011,13.2,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+209,2012,12.9,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+210,2013,13.4,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+211,2014,13.4,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+212,2015,13.3,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+213,2016,13.0,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+214,2017,12.6,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+215,2018,12.9,SH.STA.SUIC.P5,DEU,Germany,Europe & Central Asia,High income,Not classified
+216,2010,14.6,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+217,2011,14.7,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+218,2012,14.3,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+219,2013,13.7,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+220,2014,12.8,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+221,2015,12.3,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+222,2016,12.1,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+223,2017,12.0,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+224,2018,12.6,SH.STA.SUIC.P5,IND,India,South Asia,Lower middle income,IBRD
+225,2010,24.1,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+226,2011,23.4,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+227,2012,21.6,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+228,2013,21.4,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+229,2014,20.1,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+230,2015,19.1,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+231,2016,17.5,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+232,2017,17.0,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+233,2018,16.7,SH.STA.SUIC.P5,JPN,Japan,East Asia & Pacific,High income,Not classified
+234,2010,9.9,SH.STA.SUIC.P5,SGP,Singapore,East Asia & Pacific,High income,Not classified
+235,2011,9.6,SH.STA.SUIC.P5,SGP,Singapore,East Asia & Pacific,High income,Not classified
+236,2012,11.3,SH.STA.SUIC.P5,SGP,Singapore,East Asia & Pacific,High income,Not classified
+237,2013,10.3,SH.STA.SUIC.P5,SGP,Singapore,East Asia & Pacific,High income,Not classified
+238,2014,10.2,SH.STA.SUIC.P5,SGP,Singapore,East Asia & Pacific,High income,Not classified
+239,2015,9.0,SH.STA.SUIC.P5,SGP,Singapore,East Asia & Pacific,High income,Not classified
+240,2016,9.1,SH.STA.SUIC.P5,SGP,Singapore,East Asia & Pacific,High income,Not classified
+241,2017,9.0,SH.STA.SUIC.P5,SGP,Singapore,East Asia & Pacific,High income,Not classified
+242,2018,9.4,SH.STA.SUIC.P5,SGP,Singapore,East Asia & Pacific,High income,Not classified
+243,2010,8.4,SH.STA.SUIC.P5,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+244,2011,8.2,SH.STA.SUIC.P5,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+245,2012,7.9,SH.STA.SUIC.P5,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+246,2013,7.5,SH.STA.SUIC.P5,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+247,2014,7.0,SH.STA.SUIC.P5,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+248,2015,6.5,SH.STA.SUIC.P5,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+249,2016,6.0,SH.STA.SUIC.P5,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+250,2017,5.6,SH.STA.SUIC.P5,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+251,2018,6.0,SH.STA.SUIC.P5,ARE,United Arab Emirates,Middle East & North Africa,High income,Not classified
+252,2010,7.8,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+253,2011,8.3,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+254,2012,8.2,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+255,2013,8.8,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+256,2014,8.6,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+257,2015,8.8,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+258,2016,8.5,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+259,2017,8.2,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+260,2018,8.1,SH.STA.SUIC.P5,GBR,United Kingdom,Europe & Central Asia,High income,Not classified
+261,2010,13.1,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+262,2011,13.4,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+263,2012,13.5,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+264,2013,13.5,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+265,2014,14.0,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+266,2015,14.4,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+267,2016,15.1,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+268,2017,15.9,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
+269,2018,15.7,SH.STA.SUIC.P5,USA,United States,North America,High income,Not classified
